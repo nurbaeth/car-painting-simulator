@@ -13,7 +13,7 @@ An on-chain game built with Solidity where players take the role of a profession
 ## 📦 Tech Stack    
  
 - Solidity (Smart Contract)    
-- Hardhat (Development & Testing)     
+- Hardhat (Development & Testing)      
 - IPFS or Base64 (Car image metadata, optional)  
   
 ## 🚀 How It Works
