@@ -16,7 +16,7 @@ An on-chain game built with Solidity where players take the role of a profession
 - Hardhat (Development & Testing)      
 - IPFS or Base64 (Car image metadata, optional)   
    
-## 🚀 How It Works
+## 🚀 How It Works 
 
 1. Players choose a car and desired color.  
 2. They "paint" the car by submitting a transaction with chosen RGB values. 
