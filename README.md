@@ -17,7 +17,7 @@ An on-chain game built with Solidity where players take the role of a profession
 - IPFS or Base64 (Car image metadata, optional)   
          
 ## 🚀 How It Works 
- 
+  
 1. Players choose a car and desired color.   
 2. They "paint" the car by submitting a transaction with chosen RGB values.  
 3. The contract evaluates the result against a target color. 
