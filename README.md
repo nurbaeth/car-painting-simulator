@@ -29,5 +29,5 @@ An on-chain game built with Solidity where players take the role of a profession
 MIT
 
 ## 🙌 Contribute 
-
+ 
 Want to add more car models, colors, or game modes? PRs are welcome!
