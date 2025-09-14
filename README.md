@@ -18,7 +18,7 @@ An on-chain game built with Solidity where players take the role of a profession
            
 ## 🚀 How It Works   
    
-1. Players choose a car and desired color.   
+1. Players choose a car and desired color.    
 2. They "paint" the car by submitting a transaction with chosen RGB values.  
 3. The contract evaluates the result against a target color.  
 4. Based on accuracy and time, players earn a score.       
