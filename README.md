@@ -24,7 +24,7 @@ An on-chain game built with Solidity where players take the role of a profession
 4. Based on accuracy and time, players earn a score.         
 5. Scores are recorded on-chain and updated in the leaderboard.  
   
-## 📄 License
+## 📄 License 
   
 MIT
 
