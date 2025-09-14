@@ -10,7 +10,7 @@ An on-chain game built with Solidity where players take the role of a profession
 - 🔄 Compete with others and rise in the leaderboard.    
 - ⛓️ 100% on-chain logic using Solidity.    
        
-## 📦 Tech Stack    
+## 📦 Tech Stack     
  
 - Solidity (Smart Contract)        
 - Hardhat (Development & Testing)      
