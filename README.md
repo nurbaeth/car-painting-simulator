@@ -1,5 +1,5 @@
 # Car Painting Simulator 🎨🚗          
-              
+               
 An on-chain game built with Solidity where players take the role of a professional car painter. Mix colors, paint cars, and earn your reputation on-chain!        
              
 ## 🛠️ Gameplay Features                  
