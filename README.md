@@ -8,7 +8,7 @@ An on-chain game built with Solidity where players take the role of a profession
 - 🚗 Paint various car models with unique IDs.            
 - ⭐ Earn ratings based on color accuracy and speed.        
 - 🔄 Compete with others and rise in the leaderboard.       
-- ⛓️ 100% on-chain logic using Solidity.        
+- ⛓️ 100% on-chain logic using Solidity.         
           
 ## 📦 Tech Stack       
      
