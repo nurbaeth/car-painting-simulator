@@ -4,7 +4,7 @@ An on-chain game built with Solidity where players take the role of a profession
                
 ## 🛠️ Gameplay Features                  
              
-- 🎨 Mix and apply different paint colors.          
+- 🎨 Mix and apply different paint colors.           
 - 🚗 Paint various car models with unique IDs.            
 - ⭐ Earn ratings based on color accuracy and speed.        
 - 🔄 Compete with others and rise in the leaderboard.        
